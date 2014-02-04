@@ -1,6 +1,3 @@
-TumblrJS
-========
-
 Welcome to TumblrJS!
 ====================
 
